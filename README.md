@@ -1,1 +1,3 @@
-# sqlguru
+# MySQL SQLGURU adatbázis
+
+A két SQL script fájl lefuttatásával létrehozható egy gyakorló adatbázis...
